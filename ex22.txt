@@ -1,0 +1,69 @@
+print - this just prints the value of a variable or a string when its around quotes
+
+# - octothorp - this is the start of a one line comment. anything after it considered as a comment and will be ignored by the 
+compiler
+
++ -plus- this adds two numbers together or concatenate two words 
+
+, -comma- this separates variables or numbers or strings
+
+* -asterisk- this multiplies two values together
+
+/ -slash- this divides two values
+
+- -dash- this subtracts two values
+
+= -equal sign- this is used when setting a variables
+
+" " -double quotes- this is used when you print strings
+
+'' -single quotes- this is also used when printing strings or usually used when setting string variables to something
+
+f - this is used when you have some variable to print using {}
+
+() -parenthesis- this is used when printing statements or when you perform calculations that need parenthesis. 
+
+{} -curly brace- This is used when you print the values of variables inside the ""
+
+false - this is used for booleans if something is false
+
+format - this does the same thing as the curly braces in a print statements
+
+end=' ' - this causes the print statements to not print a new line.
+
+true - this is used in booleans if something is true
+
+""" """ -triple quotes- these quotes are used to print out lines exactly as written. you could write something over a couple
+of line and it would print out everything if you used a new line.
+
+\t - this tabs in 
+
+\\ - this prints out a single \ since the \ character is a escape character
+
+\n - this prints a new line
+
+input() - this gets user input on the terminal
+
+from - this goes to one of the files or folders on the terminal
+
+import - this imports something from one of the folders in the terminal
+
+argv - this gets a argument vector from when you run the files
+
+open() - this opens a file put doesnt display anything
+
+close() - this closes the file 
+
+read() - this reads the thing in the file
+
+readline() - reads just one line of the text
+
+truncate() - this empties the file
+
+write() = this writes things into the file
+
+seek(0) this moves the read/write location to the beginning of the file
+
+*args - this is like the argv but the args can represent two inputs
+
+def() - this defines the function.
